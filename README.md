@@ -1,12 +1,16 @@
+# Video of real presentation
+
+https://youtu.be/bZp_whovXEo
+
 # cv_parkinson_detector_project
 
-Abstract: Done through final project of CSE327(Computer vision) class as Solo porject.
+Abstract: Done through final project of CSE327(Computer vision) class as all SOLO porject.
 This detect Parkinson patient by two method: facial expression and spiral drawing.
-Model training is derived from other repository but front side and test part is made by self.
+Model training is referred from other repository but front side and test part is all made by self.
 
 Working Date: 2023 Spring semester
 
-Contributor: eunewoo, pf.Jihoon Ryu
+Contributor: eunewoo
 
 # PPT form
 Summary can be seen in PPT form.
@@ -30,11 +34,7 @@ https://drive.google.com/file/d/1Ll-PT0KzPQcVr2Xtlm6WJOSh7QuRaFwO/view?usp=shari
 2. Facial detect: https://github.com/mali7/PARK_facial_mimic
 3. Spiral detect: https://github.com/rohitdubey03/detect-parkinsons
 
-# Explanation
-1. 
-2. Git commits are starting from 200 commits. This is beacuse this repository started from importing diary30 front page.
-
-# Copyrihgt/Reference
+# Copyright/Reference
 OpenFace: https://github.com/TadasBaltrusaitis/OpenFace
 
 Facial-analyze: https://github.com/mali7/PARK_facial_mimic
